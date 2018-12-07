@@ -1,4 +1,13 @@
-# pix2pix-tensorflow
+# pix2pix-tf-with-grad-cam
+
+A fork of [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) by affinelayer.
+
+(Thank you for the brilliant work affinelayer!)
+
+
+----
+
+(Original README)
 
 Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 
