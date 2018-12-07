@@ -3,3 +3,7 @@ tags
 test
 models
 .idea
+
+inpainting_out
+output
+data
